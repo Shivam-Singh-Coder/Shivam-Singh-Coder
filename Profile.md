@@ -5,9 +5,9 @@ I'm a passionate web developer currently working as an intern at Rays Edutech Pr
 ## About Me
 
 - 💻 Currently interning as a Web Developer at [Rays Edutech Private Limited](https://www.raysonline.in/)
-- 💻 Completed more than 3 live projects in Django
-- 🖥️ Developed a desktop dummy application using [Java, Oracle]
-- 🎓 Pursuing [Bachelor of Computer Science (BCA)] at [Chandigarh University]
+- 💻 Completed more than 3 live web projects in Django
+- 🖥️ Developed a desktop dummy application using Java, Oracle
+- 🎓 Pursuing Bachelor of Computer Science (BCA) at Chandigarh University
 
 ## Skills
 
@@ -20,10 +20,16 @@ I'm a passionate web developer currently working as an intern at Rays Edutech Pr
 
 ### Live Projects
 
-1. **Project Name 1**
-   - Description: [Brief description of the project]
-   - Technologies Used: Django, HTML, CSS, JavaScript
-   - Link: [Link to the project if available]
+1. **Rays Edutech Pvt. Ltd.**
+   - Description: Contributed as a full-stack web developer to the success of Krischo
+Enginner (p) Ltd., leveraging expertise in front-end and back-end
+technologies. Collaborated with a team to design, develop, and deploy
+innovative web applications aimed at enhancing educational
+experiences. Proficiently utilized HTML, CSS, JavaScript, jQuery for
+intuitive front-end design and in back-end python along with framework
+Django and MySQL as database.
+   - Technologies Used: Django, HTML, CSS, JavaScript, Ajax, jQuery, MySql
+   - Link: https://raysonline.in
 
 2. **Project Name 2**
    - Description: [Brief description of the project]
