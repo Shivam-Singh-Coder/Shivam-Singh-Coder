@@ -58,6 +58,6 @@ Django and MySQL as databases.
 - LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/shivam-singh-555015225)
 - GitHub: [GitHub profile](https://github.com/Shivam-Singh-Coder)
 - Email: [shivwebdeveloper.rays@gmail.com]
-- Contact Number: [+91-7617839389]
+- Contact Number: [7617839389]
 
 Feel free to reach out to discuss collaboration opportunities, projects, or connect!
