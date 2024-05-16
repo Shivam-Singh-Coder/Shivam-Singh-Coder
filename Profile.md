@@ -1,6 +1,6 @@
 # Hello, I'm Shivam Singh 👋
 
-I'm a passionate web developer currently working as an intern at Rays Edutech Private Limited in Patna, Bihar. With over 10 months of internship experience, I've had the opportunity to work on exciting projects and enhance my skills in web development.
+I'm a passionate web developer working as an intern at Rays Edutech Private Limited in Patna, Bihar. With over 10 months of internship experience, I've had the opportunity to work on exciting projects and enhance my skills in web development.
 
 ## About Me
 
@@ -22,21 +22,26 @@ I'm a passionate web developer currently working as an intern at Rays Edutech Pr
 
 1. **Rays Edutech Pvt. Ltd.**
    - Description: Contributed as a full-stack web developer to the success of Krischo
-Enginner (p) Ltd., leveraging expertise in front-end and back-end
+Engineer (p) Ltd., leveraging expertise in front-end and back-end
 technologies. Collaborated with a team to design, develop, and deploy
-innovative web applications aimed at enhancing educational
-experiences. Proficiently utilized HTML, CSS, JavaScript, jQuery for
-intuitive front-end design and in back-end python along with framework
-Django and MySQL as database.
+innovative web applications to enhance educational
+experiences. Proficiently utilized HTML, CSS, JavaScript, and jQuery for
+intuitive front-end design and back-end Python along with the framework
+Django and MySQL as databases.
    - Technologies Used: Django, HTML, CSS, JavaScript, Ajax, jQuery, MySql
    - Link: https://raysonline.in
 
-2. **Project Name 2**
+2. **Tekward Helmet**
    - Description: [Brief description of the project]
    - Technologies Used: Django, React.js, PostgreSQL
    - Link: [Link to the project if available]
 
-3. **Project Name 3**
+3. **EduInfo Admission Academy**
+   - Description: [Brief description of the project]
+   - Technologies Used: Django, Bootstrap, MySQL
+   - Link: [Link to the project if available]
+   
+4. **Krishco Engineer (P) Ltd.**
    - Description: [Brief description of the project]
    - Technologies Used: Django, Bootstrap, MySQL
    - Link: [Link to the project if available]
@@ -50,11 +55,8 @@ Django and MySQL as database.
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/shivam-singh-555015225)
 - GitHub: [Your GitHub profile](https://github.com/your-profile)
-- Email: [Your email address]
+- Email: [shivwebdeveloper.rays@gmail.com]
 
-Feel free to reach out to discuss collaboration opportunities, projects, or just to connect!
-```
-
-Replace placeholders like `[Your Name]`, `[Insert technology/programming language]`, `[Your degree/field of study]`, and others with your actual information and details. You can also add more sections or customize the content based on your preferences and experiences.
+Feel free to reach out to discuss collaboration opportunities, projects, or connect!
