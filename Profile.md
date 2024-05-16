@@ -9,12 +9,12 @@ I am a passionate web developer currently working as a Full Stack Web Developer 
 - 🖥️ Developed a desktop dummy application using Java, Oracle
 - 🎓 Pursuing Bachelor of Computer Science (BCA) at Chandigarh University
 ## Professional Experience
- ##Full Stack Web Developer
+ Full Stack Web Developer
 
 - Company: Rays Edutech Private Limited
 - Location: Patna, Bihar
 - Duration: 10 months (Internship), Currently employed full-time
-- Role: As a full-stack web developer, I work on both front-end and back-end development, contributing to a wide range of projects that improve our clients' web presence and functionality.
+- Role: As a full-stack web developer, I work on both front-end and back-end development, contributing to a wide range of projects that improve our client's web presence and functionality.
 
 ## Skills
 
