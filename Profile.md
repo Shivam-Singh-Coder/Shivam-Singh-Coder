@@ -48,10 +48,10 @@ Django and MySQL as databases.
 
 ### Desktop Dummy Application
 
-- **Application Name**
-  - Description: [Brief description of the application]
-  - Technologies Used: [Insert technologies used for the desktop application]
-  - Link: [Link to the repository or demo if available]
+- **RaysApp**
+  - Description: [RaysApp is a feature-rich desktop application developed in Java, designed to provide a seamless and intuitive user experience. It incorporates modern design principles and robust functionalities to cater to various user needs. This project showcases advanced Java programming skills and emphasizes clean, maintainable code practices.]
+  - Technologies Used: [Java(J2SE), SQL]
+  - Link: [https://github.com/Shivam-Singh-Coder/RaysApp-JAVA/]
 
 ## Get in Touch
 
