@@ -32,9 +32,9 @@ Django and MySQL as databases.
    - Link: https://raysonline.in
 
 2. **Tekward Helmet**
-   - Description: [Brief description of the project]
-   - Technologies Used: Django, React.js, PostgreSQL
-   - Link: [Link to the project if available]
+   - Description: Tekward Helmet is an innovative web application designed to enhance the safety and connectivity of helmet users in various activities, including cycling, motorcycling, and construction work. The application integrates smart technology to provide real-time monitoring, navigation assistance, and emergency alerts, making it an essential tool for both recreational and professional use.
+   - Technologies Used: HTML5, CSS3, JavaScript, jQuery, Bootstrap, SMTP(Email)
+   - Link: https://tekwardhelmet.com/
 
 3. **EduInfo Admission Academy**
    - Description: [Brief description of the project]
@@ -49,9 +49,9 @@ Django and MySQL as databases.
 ### Desktop Dummy Application
 
 - **RaysApp**
-  - Description: [RaysApp is a feature-rich desktop application developed in Java, designed to provide a seamless and intuitive user experience. It incorporates modern design principles and robust functionalities to cater to various user needs. This project showcases advanced Java programming skills and emphasizes clean, maintainable code practices.]
+  - Description: RaysApp is a feature-rich desktop application developed in Java, designed to provide a seamless and intuitive user experience. It incorporates modern design principles and robust functionalities to cater to various user needs. This project showcases advanced Java programming skills and emphasizes clean, maintainable code practices.
   - Technologies Used: [Java(J2SE), SQL]
-  - Link: [https://github.com/Shivam-Singh-Coder/RaysApp-JAVA/]
+  - Link: https://github.com/Shivam-Singh-Coder/RaysApp-JAVA/
 
 ## Get in Touch
 
