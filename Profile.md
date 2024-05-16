@@ -1,6 +1,6 @@
 # Hello, I'm Shivam Singh 👋
 
-I'm a passionate web developer working as an intern at Rays Edutech Private Limited in Patna, Bihar. With over 10 months of internship experience, I've had the opportunity to work on exciting projects and enhance my skills in web development.
+I am a passionate web developer currently working as a Full Stack Web Developer at Rays Edutech Private Limited in Patna, Bihar. After completing a rewarding 10-month internship with Rays Edutech, I transitioned into a full-time role, where I continue to develop and enhance my skills in web development through exciting projects.
 
 ## About Me
 
@@ -8,6 +8,13 @@ I'm a passionate web developer working as an intern at Rays Edutech Private Limi
 - 💻 Completed more than 3 live web projects in Django
 - 🖥️ Developed a desktop dummy application using Java, Oracle
 - 🎓 Pursuing Bachelor of Computer Science (BCA) at Chandigarh University
+## Professional Experience
+ ##Full Stack Web Developer
+
+- Company: Rays Edutech Private Limited
+- Location: Patna, Bihar
+- Duration: 10 months (Internship), Currently employed full-time
+- Role: As a full-stack web developer, I work on both front-end and back-end development, contributing to a wide range of projects that improve our clients' web presence and functionality.
 
 ## Skills
 
