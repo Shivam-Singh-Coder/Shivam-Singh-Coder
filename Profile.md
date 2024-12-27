@@ -2,7 +2,7 @@
 
 I am a passionate web developer currently working as a Full Stack Web Developer at Rays Edutech Private Limited in Patna, Bihar. After completing a rewarding 10-month internship with Rays Edutech, I transitioned into a full-time role, where I continue to develop and enhance my skills in web development through exciting projects.
 
-## About Me
+##💫 About Me
 
 - 💻 Currently interning as a Web Developer at [Rays Edutech Private Limited](https://www.raysonline.in/)
 - 💻 Completed more than 3 live web projects in Django
@@ -62,7 +62,7 @@ Django and MySQL as databases.
 
 ## Get in Touch
 
-- LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/shivam-singh-555015225)
+- LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/shivam-singh-coder)
 - GitHub: [GitHub profile](https://github.com/Shivam-Singh-Coder)
 - Email: [shivwebdeveloper.rays@gmail.com]
 - Contact Number: [7617839389]
