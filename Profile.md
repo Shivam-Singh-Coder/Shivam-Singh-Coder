@@ -53,7 +53,7 @@ Django and MySQL as databases.
    - Technologies Used: Django, Bootstrap, MySQL
    - Link: [Link to the project if available]
 
-### Desktop Dummy Application
+### Desktop Application (in Local System)
 
 - **RaysApp**
   - Description: RaysApp is a feature-rich desktop application developed in Java, designed to provide a seamless and intuitive user experience. It incorporates modern design principles and robust functionalities to cater to various user needs. This project showcases advanced Java programming skills and emphasizes clean, maintainable code practices.
