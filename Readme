@@ -1,58 +1,103 @@
-Hello, I'm Shivam Singh 👋
-I am a passionate web developer currently working as a Full Stack Web Developer at Rays Edutech Private Limited in Patna, Bihar. After completing a rewarding 10-month internship with Rays Edutech, I transitioned into a full-time role, where I continue to develop and enhance my skills in web development through exciting projects.
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shivam-Singh-Coder/Shivam-Singh-Coder/main/banner.png" alt="Shivam Singh Banner" />
+</p>
 
-💫 About Me
+<h1 align="center">👋 Hello, I'm Shivam Singh</h1>
+<p align="center">
+  💻 Full Stack Web Developer | 🌍 Based in Patna, Bihar | 🎓 BCA at Chandigarh University
+</p>
 
-💻 Currently interning as a Web Developer at Rays Edutech Private Limited
-💻 Completed more than 3 live web projects in Django
-🖥️ Developed a desktop dummy application using Java, Oracle
-🎓 Pursuing Bachelor of Computer Science (BCA) at Chandigarh University
-Professional Experience
-Full Stack Web Developer
+---
 
-Company: Rays Edutech Private Limited
-Location: Patna, Bihar
-Duration: 10 months (Internship), Currently employed full-time
-Role: As a full-stack web developer, I work on both front-end and back-end development, contributing to a wide range of projects that improve our client's web presence and functionality.
-Skills
-Frontend Development: HTML, CSS, JavaScript, React.js
-Backend Development: Django, Node.js
-Database Management: SQL, MySql
-Version Control: Git, GitHub
-Projects
-Live Projects
-Rays Edutech Pvt. Ltd.
+## 💫 About Me
+- 💻 Currently working as a **Full Stack Web Developer** at [Rays Edutech Pvt. Ltd.](https://raysonline.in)  
+- 🌱 Completed **more than 5 live client projects** in Django & full stack technologies  
+- 🖥️ Developed a **desktop application in Java (J2SE, Oracle)**  
+- 🎓 Pursuing **Bachelor of Computer Science (BCA)** from **Chandigarh University**
 
-Description: Contributed as a full-stack web developer to the success of Krischo Engineer (p) Ltd., leveraging expertise in front-end and back-end technologies. Collaborated with a team to design, develop, and deploy innovative web applications to enhance educational experiences. Proficiently utilized HTML, CSS, JavaScript, and jQuery for intuitive front-end design and back-end Python along with the framework Django and MySQL as databases.
-Technologies Used: Django, HTML, CSS, JavaScript, Ajax, jQuery, MySql
-Link: https://raysonline.in
-Tekward Helmet
+---
 
-Description: Tekward Helmet is an innovative web application designed to enhance the safety and connectivity of helmet users in various activities, including cycling, motorcycling, and construction work. The application integrates smart technology to provide real-time monitoring, navigation assistance, and emergency alerts, making it an essential tool for both recreational and professional use.
-Technologies Used: HTML5, CSS3, JavaScript, jQuery, Bootstrap, SMTP(Email)
-Link: https://tekwardhelmet.com/
-EduInfo Admission Academy
+## 👨‍💻 Professional Experience
 
-Description: [Brief description of the project]
-Technologies Used: Django, Bootstrap, MySQL
-Link: [Link to the project if available]
-Krishco Engineer (P) Ltd.
+### 💼 Full Stack Web Developer – Rays Edutech Pvt. Ltd.
+📍 Patna, Bihar | 🗓️ Internship (10 months) + Full-Time (Present)  
 
-Description: [Brief description of the project]
-Technologies Used: Django, Bootstrap, MySQL
-Link: [Link to the project if available]
-Desktop Application (in Local System)
-RaysApp
-Description: RaysApp is a feature-rich desktop application developed in Java, designed to provide a seamless and intuitive user experience. It incorporates modern design principles and robust functionalities to cater to various user needs. This project showcases advanced Java programming skills and emphasizes clean, maintainable code practices.
-Technologies Used: [Java(J2SE), SQL]
-Link: https://github.com/Shivam-Singh-Coder/RaysApp-JAVA/
-Get in Touch
-LinkedIn: LinkedIn profile
-Link: http://www.linkedin.com/in/shivam-singh-coder
-GitHub: GitHub profile
-Link: https://github.com/Shivam-Singh-Coder/
-Portfolio Profile:
-Link: https://shivam-singh-coder.github.io/Shivam-Singh-Coder/
-Email: [shivwebdeveloper.rays@gmail.com]
-Contact Number: [7617839389]
-Feel free to reach out to discuss collaboration opportunities, projects, or connect!
+**Role & Responsibilities:**
+- 🔹 Developed full-stack web applications using **Django, React, and MySQL**  
+- 🔹 Designed and implemented intuitive **front-end interfaces** with **HTML, CSS, JS**  
+- 🔹 Built secure and scalable **back-end systems** in Django & Node.js  
+- 🔹 Collaborated with teams on live client projects for various domains  
+
+---
+
+## 🛠️ Skills
+
+### 🎨 Frontend
+- HTML5 • CSS3 • JavaScript • React.js • Bootstrap  
+
+### ⚙️ Backend
+- Django • Node.js • REST APIs  
+
+### 🗄️ Database
+- MySQL • SQL • Oracle  
+
+### 🧰 Tools & Version Control
+- Git • GitHub  
+
+---
+
+## 🚀 Projects
+
+### 🌐 [Rays Edutech Pvt. Ltd.](https://raysonline.in)  
+Contributed as a full-stack web developer on **live client projects** enhancing educational platforms.  
+**Tech Used:** Django, HTML, CSS, JavaScript, jQuery, MySQL  
+
+---
+
+### ⛑️ [Tekward Helmet](https://tekwardhelmet.com/)  
+A **smart helmet application** offering safety, real-time monitoring, and emergency alerts.  
+**Tech Used:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, SMTP(Email)  
+
+---
+
+### 🎓 EduInfo Admission Academy  
+Admission management web solution.  
+**Tech Used:** Django, Bootstrap, MySQL  
+
+---
+
+### 🏭 Krishco Engineer (P) Ltd.  
+Business solution web platform.  
+**Tech Used:** Django, Bootstrap, MySQL  
+
+---
+
+### 💻 [RaysApp – Desktop Application](https://github.com/Shivam-Singh-Coder/RaysApp-JAVA/)  
+A feature-rich **Java desktop application** with a smooth UI & database integration.  
+**Tech Used:** Java (J2SE), Oracle  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Singh-Coder&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Singh-Coder&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📬 Get in Touch
+
+- 🔗 **LinkedIn:** [shivam-singh-coder](http://www.linkedin.com/in/shivam-singh-coder)  
+- 🐙 **GitHub:** [Shivam-Singh-Coder](https://github.com/Shivam-Singh-Coder)  
+- 🌐 **Portfolio:** [shivam-singh-coder.github.io](https://shivam-singh-coder.github.io/Shivam-Singh-Coder/)  
+- 📧 **Email:** [shivwebdeveloper.rays@gmail.com](mailto:shivwebdeveloper.rays@gmail.com)  
+- 📞 **Phone:** +91 7617839389  
+
+---
+
+<p align="center">
+  🔥 <b>"Code. Build. Deploy. Repeat."</b> 🚀  
+</p>
