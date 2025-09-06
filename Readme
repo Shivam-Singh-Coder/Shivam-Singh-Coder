@@ -1,103 +1,105 @@
-<!-- Banner -->
+<h1 align="center">👋 Hi, I'm Shivam Singh</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shivam-Singh-Coder/Shivam-Singh-Coder/main/banner.png" alt="Shivam Singh Banner" />
+  💻 Full Stack Web Developer | 🌍 Based in Patna, Bihar | 📧 <a href="mailto:shivwebdeveloper.rays@gmail.com">shivwebdeveloper.rays@gmail.com</a>  
 </p>
 
-<h1 align="center">👋 Hello, I'm Shivam Singh</h1>
 <p align="center">
-  💻 Full Stack Web Developer | 🌍 Based in Patna, Bihar | 🎓 BCA at Chandigarh University
+  <img src="A_professional_digital_graphic_banner_showcases_Sh.png" alt="Shivam Singh Banner" width="100%" />
 </p>
 
 ---
 
-## 💫 About Me
-- 💻 Currently working as a **Full Stack Web Developer** at [Rays Edutech Pvt. Ltd.](https://raysonline.in)  
-- 🌱 Completed **more than 5 live client projects** in Django & full stack technologies  
-- 🖥️ Developed a **desktop application in Java (J2SE, Oracle)**  
-- 🎓 Pursuing **Bachelor of Computer Science (BCA)** from **Chandigarh University**
+## 🚀 About Me
 
----
-
-## 👨‍💻 Professional Experience
-
-### 💼 Full Stack Web Developer – Rays Edutech Pvt. Ltd.
-📍 Patna, Bihar | 🗓️ Internship (10 months) + Full-Time (Present)  
-
-**Role & Responsibilities:**
-- 🔹 Developed full-stack web applications using **Django, React, and MySQL**  
-- 🔹 Designed and implemented intuitive **front-end interfaces** with **HTML, CSS, JS**  
-- 🔹 Built secure and scalable **back-end systems** in Django & Node.js  
-- 🔹 Collaborated with teams on live client projects for various domains  
+- 👨‍💻 Currently working as **Full Stack Web Developer** at **Rays Edutech Pvt. Ltd.**  
+- 🌱 Completed **10 months internship** at Rays Edutech before transitioning to full-time role  
+- 🎓 Pursuing **Bachelor of Computer Applications (BCA)** at Chandigarh University  
+- 💡 Passionate about building scalable, user-friendly, and impactful applications  
 
 ---
 
 ## 🛠️ Skills
 
-### 🎨 Frontend
-- HTML5 • CSS3 • JavaScript • React.js • Bootstrap  
+### 🔹 Frontend Development
+- HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind  
 
-### ⚙️ Backend
-- Django • Node.js • REST APIs  
+### 🔹 Backend Development
+- Django (Python), Node.js  
 
-### 🗄️ Database
-- MySQL • SQL • Oracle  
+### 🔹 Database Management
+- MySQL, SQL  
 
-### 🧰 Tools & Version Control
-- Git • GitHub  
-
----
-
-## 🚀 Projects
-
-### 🌐 [Rays Edutech Pvt. Ltd.](https://raysonline.in)  
-Contributed as a full-stack web developer on **live client projects** enhancing educational platforms.  
-**Tech Used:** Django, HTML, CSS, JavaScript, jQuery, MySQL  
+### 🔹 Version Control & Tools
+- Git, GitHub  
 
 ---
 
-### ⛑️ [Tekward Helmet](https://tekwardhelmet.com/)  
-A **smart helmet application** offering safety, real-time monitoring, and emergency alerts.  
-**Tech Used:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, SMTP(Email)  
+## 💼 Professional Experience
+
+**Full Stack Web Developer**  
+🏢 Company: **Rays Edutech Pvt. Ltd.**  
+📍 Location: Patna, Bihar  
+🕒 Duration: Internship (10 months) → Full-time (Present)  
+🔹 Role: Develop & maintain web applications, design front-end interfaces, manage back-end APIs, optimize databases, and deliver complete solutions.
 
 ---
 
-### 🎓 EduInfo Admission Academy  
-Admission management web solution.  
-**Tech Used:** Django, Bootstrap, MySQL  
+## 📂 Projects
+
+### 🌐 Live Projects
+
+**🔹 Rays Edutech Pvt. Ltd. Website**  
+- Description: Designed & developed company site and live projects platform.  
+- Tech Stack: Django, HTML, CSS, JavaScript, jQuery, Ajax, MySQL  
+- 🔗 [Visit Website](https://raysonline.in)
+
+**🔹 Tekward Helmet**  
+- Description: Innovative web app integrating smart helmet safety, navigation, and emergency alerts.  
+- Tech Stack: HTML5, CSS3, JavaScript, Bootstrap, jQuery, SMTP  
+- 🔗 [Visit Website](https://tekwardhelmet.com)
+
+**🔹 EduInfo Admission Academy**  
+- Description: A web application for admissions & academic management.  
+- Tech Stack: Django, Bootstrap, MySQL  
+- 🔗 Link: Coming Soon  
+
+**🔹 Krishco Engineer (P) Ltd.**  
+- Description: Business management & operations support system.  
+- Tech Stack: Django, Bootstrap, MySQL  
+- 🔗 Link: Coming Soon  
+
+### 💻 Desktop Application
+
+**🔹 RaysApp**  
+- Description: Java-based desktop app with user-friendly design and strong features.  
+- Tech Stack: Java (J2SE), Oracle SQL  
+- 🔗 [View Project](https://github.com/Shivam-Singh-Coder/RaysApp-JAVA/)
 
 ---
 
-### 🏭 Krishco Engineer (P) Ltd.  
-Business solution web platform.  
-**Tech Used:** Django, Bootstrap, MySQL  
+## 🎯 Career Goals
 
----
-
-### 💻 [RaysApp – Desktop Application](https://github.com/Shivam-Singh-Coder/RaysApp-JAVA/)  
-A feature-rich **Java desktop application** with a smooth UI & database integration.  
-**Tech Used:** Java (J2SE), Oracle  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Singh-Coder&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Singh-Coder&theme=tokyonight" alt="GitHub Streak" />
-</p>
+- 🌟 Continue growing as a **Full Stack Developer**  
+- 🤝 Collaborate on open-source projects  
+- 🏗️ Build scalable, real-world applications  
+- 🎓 Specialize in **AI & Machine Learning** in higher studies  
 
 ---
 
 ## 📬 Get in Touch
 
-- 🔗 **LinkedIn:** [shivam-singh-coder](http://www.linkedin.com/in/shivam-singh-coder)  
-- 🐙 **GitHub:** [Shivam-Singh-Coder](https://github.com/Shivam-Singh-Coder)  
-- 🌐 **Portfolio:** [shivam-singh-coder.github.io](https://shivam-singh-coder.github.io/Shivam-Singh-Coder/)  
-- 📧 **Email:** [shivwebdeveloper.rays@gmail.com](mailto:shivwebdeveloper.rays@gmail.com)  
-- 📞 **Phone:** +91 7617839389  
+- 🌐 Portfolio: [shivam-singh-coder.github.io](https://shivam-singh-coder.github.io/Shivam-Singh-Coder/)  
+- 💼 LinkedIn: [linkedin.com/in/shivam-singh-coder](http://www.linkedin.com/in/shivam-singh-coder)  
+- 🐙 GitHub: [github.com/Shivam-Singh-Coder](https://github.com/Shivam-Singh-Coder/)  
+- 📧 Email: [shivwebdeveloper.rays@gmail.com](mailto:shivwebdeveloper.rays@gmail.com)  
+- 📞 Contact: +91 76178 39389  
 
 ---
 
 <p align="center">
-  🔥 <b>"Code. Build. Deploy. Repeat."</b> 🚀  
+  🔥 Passion for Code | 💡 Creative Mindset | 🚀 Driving Digital Solutions
+</p>
+
+<p align="center">
+  <b>Shivam Singh</b> – Building ideas into reality through technology.
 </p>
