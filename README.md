@@ -121,8 +121,8 @@ Java-based desktop application with modern UI and robust functionality.
   <a href="https://github.com/Shivam-Singh-Coder/RaysApp-JAVA">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Singh-Coder&repo=RaysApp-JAVA&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Shivam-Singh-Coder/Shivam-Singh-Coder.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Singh-Coder&repo=Shivam-Singh-Coder.github.io&theme=tokyonight" />
+  <a href="https://github.com/Shivam-Singh-Coder/Shivam-Singh-Coder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Singh-Coder&repo=Shivam-Singh-Coder&theme=tokyonight" />
   </a>
 </p>
 
