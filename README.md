@@ -2,57 +2,129 @@
 <h1 align="center">👋 Welcome to Shivam Singh's Profile</h1>
 
 <p align="center">
-💼 Full Stack Web Developer | 🌍 Based in Patna, Bihar | 📧 [shivwebdeveloper.rays@gmail.com](mailto:shivwebdeveloper.rays@gmail.com)
-</p>      
+💼 Django & Full Stack Web Developer | 🌍 Based in Patna, Bihar | 📧 [shivwebdeveloper.rays@gmail.com](mailto:shivwebdeveloper.rays@gmail.com)
+</p>  
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shivam-Singh-Coder&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shivam-Singh-Coder" alt="Visitor Count" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 Currently working as **Full Stack Web Developer** at **Rays Edutech Pvt. Ltd.**
+- 👨‍💻 Currently working as **Full Stack / Django Developer** at **Rays Edutech Pvt. Ltd.**
 - 🎯 Completed **10 months internship** at Rays Edutech before transitioning to full-time role
 - 🎓 Pursuing **Bachelor of Computer Applications (BCA)** at Chandigarh University
-- 💡 Passionate about building scalable, user-friendly, and impactful applications  
+- 💡 Skilled in **designing scalable Django applications**, custom authentication, and role-based access
+- 🔒 Experience with **custom privilege management, decorators, middleware, and token-based authentication**
+- ⚡ Passionate about building impactful, secure, and user-friendly web solutions  
 
 ---
 
 ## 🛠️ Skills
 
-### 🎨 Frontend Development
-- HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind  
+### 🎨 Frontend Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-### ⚙️ Backend Development
-- Django, Node.js, REST APIs  
+### ⚙️ Backend Development  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest-api&logoColor=white)  
 
-### 🗄️ Database
-- MySQL, SQL  
+### 🗄️ Database  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)  
 
-### 🔧 Tools & Version Control
-- Git, GitHub, VS Code  
+### 🔧 Tools & Version Control  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-### 🌐 [Rays Edutech Pvt. Ltd.](https://raysonline.in)
-Full-stack contribution to multiple live projects using Django, MySQL, HTML, CSS, JavaScript, jQuery, and Ajax.  
+### 📊 [Truesurvey (Latest Project)](https://truesurvey.in/) ![Live](https://img.shields.io/badge/Live-Project-brightgreen)  
+Online survey platform with real-time data collection, analytics, and user-friendly dashboards.  
+*Tech Stack: Django, DRF, Bootstrap, MySQL*  
 
-### 🛡️ [Tekward Helmet](https://tekwardhelmet.com/)
-Smart helmet web application for real-time monitoring, navigation assistance, and emergency alerts.  
+### ⚙️ [Krishco Engineer (P) Ltd.](https://krishco.com/) ![Live](https://img.shields.io/badge/Live-Project-brightgreen)  
+Corporate website for engineering solutions with secure admin panel and dynamic content management.  
+*Tech Stack: Django, Bootstrap, MySQL*  
+
+### 🌐 [Rays Edutech Pvt. Ltd.](https://raysonline.in) ![Live](https://img.shields.io/badge/Live-Project-brightgreen)  
+Full-stack contributions across multiple live projects including custom authentication, privileges, and middleware.  
+*Tech Stack: Django, MySQL, HTML, CSS, JavaScript, jQuery, Ajax*  
+
+### 🎓 [EduInfo Admission Academy](https://collegesewa.com/) ![Live](https://img.shields.io/badge/Live-Project-brightgreen)  
+Admission management portal with student registration, course listing, and enquiry handling.  
+*Tech Stack: Django, Bootstrap, MySQL*  
+
+### 🛡️ [Tekward Helmet](https://tekwardhelmet.com/) ![Live](https://img.shields.io/badge/Live-Project-brightgreen)  
+Smart helmet application for real-time monitoring, navigation assistance, and emergency alerts.  
 *Tech Stack: HTML5, CSS3, JavaScript, jQuery, Bootstrap, SMTP (Email)*  
 
-### 🎓 EduInfo Admission Academy
-*Tech Stack: Django, Bootstrap, MySQL*  
-🔗 *Link coming soon*  
-
-### ⚙️ Krishco Engineer (P) Ltd.
-*Tech Stack: Django, Bootstrap, MySQL*  
-🔗 *Link coming soon*  
-
-### 💻 [RaysApp – Desktop Application](https://github.com/Shivam-Singh-Coder/RaysApp-JAVA/)
+### 💻 [RaysApp – Desktop Application](https://github.com/Shivam-Singh-Coder/RaysApp-JAVA/)  
 Java-based desktop application with modern UI and robust functionality.  
 *Tech Stack: Java (J2SE), SQL*  
+
+---
+
+## ⚡ Django Advanced Topics I Work With
+
+- ✅ Custom **Authentication & Authorization** (JWT, token-based, session-based)  
+- ✅ **Custom Privilege System** (dynamic role/permission creation)  
+- ✅ **Custom Middleware & Decorators** for security and logging  
+- ✅ **Signals** for event-driven architecture  
+- ✅ **Caching & Optimization** (Redis, per-view & low-level caching)  
+- ✅ **File Handling** (image/video upload with size optimization)  
+- ✅ **Django REST Framework (DRF)** for APIs  
+- ✅ **WebSockets / Real-time communication** (chat & notifications)  
+- ✅ **Throttling, Pagination & Filtering** in APIs  
+- ✅ **Deployment & Scaling** (Gunicorn, Nginx, MySQL optimization)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Singh-Coder&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Singh-Coder&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Singh-Coder&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam-Singh-Coder&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
+## 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/Shivam-Singh-Coder/RaysApp-JAVA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Singh-Coder&repo=RaysApp-JAVA&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Shivam-Singh-Coder/Shivam-Singh-Coder.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Singh-Coder&repo=Shivam-Singh-Coder.github.io&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -62,7 +134,7 @@ Java-based desktop application with modern UI and robust functionality.
 - 👨‍💻 [GitHub](https://github.com/Shivam-Singh-Coder/)  
 - 🌐 [Portfolio](https://shivam-singh-coder.github.io/Shivam-Singh-Coder/)  
 - 📧 [shivwebdeveloper.rays@gmail.com](mailto:shivwebdeveloper.rays@gmail.com)  
-- 📞 +91 7617839389  
+- 📞 +91 9219286194  
 
 ---
 
