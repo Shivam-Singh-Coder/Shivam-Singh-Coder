@@ -1,10 +1,10 @@
+![Shivam Singh Banner](https://raw.githubusercontent.com/Shivam-Singh-Coder/Shivam-Singh-Coder/main/banner.png)
 <h1 align="center">👋 Welcome to Shivam Singh's Profile</h1>
 
 <p align="center">
 💼 Full Stack Web Developer | 🌍 Based in Patna, Bihar | 📧 [shivwebdeveloper.rays@gmail.com](mailto:shivwebdeveloper.rays@gmail.com)
 </p>      
 
-![Shivam Singh Banner](A_professional_digital_graphic_banner_showcases_Sh.png)
 
 ---
 
