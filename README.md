@@ -115,7 +115,7 @@ Java-based desktop application with modern UI and robust functionality.
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Pinned Projects  
 
 <p align="center">
   <a href="https://github.com/Shivam-Singh-Coder/RaysApp-JAVA">
@@ -125,6 +125,7 @@ Java-based desktop application with modern UI and robust functionality.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam-Singh-Coder&repo=Shivam-Singh-Coder&theme=tokyonight" />
   </a>
 </p>
+
 
 ---
 
