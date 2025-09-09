@@ -2,7 +2,7 @@
 <h1 align="center">👋 Welcome to Shivam Singh's Profile</h1>
 
 <p align="center">
-💼 Django & Full Stack Web Developer | 🌍 Based in Patna, Bihar | 📧 [shivwebdeveloper.rays@gmail.com](mailto:shivwebdeveloper.rays@gmail.com)
+💼 Django & Full Stack Web Developer | 🌍 Based in Patna, Bihar | 📧 <a href="mailto:shivwebdeveloper.rays@gmail.com" target="_blank">Work With Me</a>
 </p>  
 
 <p align="center">
