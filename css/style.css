@@ -8491,6 +8491,9 @@ h1, h2, h3, h4, h5,
               width: 1200px;
               margin: 0 auto; } }
           @media (max-width: 991.98px) {
+            .owl-carousel.home-slider, .owl-carousel.home-slider .slider-item {
+              height: 700px;
+            }
             .owl-carousel.home-slider .slider-item .slider-text .one-forth {
               width: 100%;
               position: absolute;
