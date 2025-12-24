@@ -16,7 +16,8 @@
 
 - 👨‍💻 Currently working as **Full Stack / Django Developer** at **Rays Edutech Pvt. Ltd.**
 - 🎯 Completed **10 months internship** at Rays Edutech before transitioning to full-time role
-- 🎓 Pursuing **Bachelor of Computer Applications (BCA)** at Chandigarh University
+- 🎓 Pursuing **Master of Computer Applications (MCA)** at Chandigarh University
+- 🎓 Completed **Bachelor of Computer Applications (BCA)** at Chandigarh University
 - 💡 Skilled in **designing scalable Django applications**, custom authentication, and role-based access
 - 🔒 Experience with **custom privilege management, decorators, middleware, and token-based authentication**
 - ⚡ Passionate about building impactful, secure, and user-friendly web solutions  
